@@ -1,7 +1,7 @@
 # CNN Image Classification — FashionMNIST
 
 **Student:** Md. Ashadullah Al Galib
-**ID:** 220138 (replace with your actual ID)
+**ID:** 220138 
 
 ## Overview
 A CNN trained on FashionMNIST (10 classes, 28×28 grayscale) and tested on 10 custom
