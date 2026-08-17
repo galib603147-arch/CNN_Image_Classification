@@ -38,16 +38,16 @@ _Paste after running the notebook:_
 - Test Accuracy: 92.34%
 
 ### Training Curves
-![training curves](training_curves(1).png)
+![training curves](training_curves.png)
 
 ### Confusion Matrix
 ![confusion matrix](confusion_matrix.png)
 
 ### Custom Photo Predictions
-![gallery](custom_prediction_gallery(1).png)
+![gallery](custom_prediction_gallery.png)
 
 ### Error Analysis
-![errors](error_analysis(1).png)
+![errors](error_analysis.png)
 
 ## How to Run
 1. Open `220138.ipynb` in Google Colab.
